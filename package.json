@@ -1,6 +1,6 @@
 
 {
-  "name": "monmetrics-restored-best",
+  "name": "monmetrics",
   "version": "8.0.0",
   "type": "module",
   "main": "server.js",
