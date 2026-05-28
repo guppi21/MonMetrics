@@ -1,0 +1,15 @@
+
+{
+  "name": "monmetrics-techui",
+  "version": "4.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^6.13.1",
+    "express": "^4.19.2"
+  }
+}
